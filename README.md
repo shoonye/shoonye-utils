@@ -1,7 +1,7 @@
 # shoonye-utils 
 This project consists of various utilities that almost any standard Java EE project will need. Compiled libraries are available on Maven Central repository.
 
-*Version: 1.0.0
+*Version: 1.0.0*
 
 ## System Requirements
 
